@@ -1,20 +1,20 @@
 <template>
     <div>
         <h1>
-            HELLO WORLD
+            ERROR PATH
         </h1>
     </div>
 </template>
 
 <script>
     export default {
-        name: "HelloWorld"
+        name: "BadPath"
     }
 </script>
 
 <style scoped>
 h1 {
-    margin: 200px 0;
+    margin: 250px;
     text-align: center;
 }
 </style>
